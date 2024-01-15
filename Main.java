@@ -6,6 +6,7 @@ public class Main{
         System.out.println("This is java program");
         System.out.println("Git - jenkins ");
         System.out.println(new Date());
+        System.out.println("added");
 
 
     }
